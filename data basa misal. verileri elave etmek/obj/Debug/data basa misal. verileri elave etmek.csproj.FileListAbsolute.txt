@@ -1,0 +1,45 @@
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe.config
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csprojResolveAssemblyReference.cache
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Form1.resources
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Properties.Resources.resources
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csproj.GenerateResource.Cache
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\İlqar\Documents\Visual Studio 2012\Projects\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.pdb
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe.config
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.exe
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.pdb
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.pdb
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csprojResolveAssemblyReference.cache
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Form1.resources
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Properties.Resources.resources
+E:\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csproj.GenerateResource.Cache
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe.config
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csprojResolveAssemblyReference.cache
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Form1.resources
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Properties.Resources.resources
+C:\Users\gunel\Desktop\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csproj.GenerateResource.Cache
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe.config
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csprojResolveAssemblyReference.cache
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Form1.resources
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Properties.Resources.resources
+C:\Users\gunel\Desktop\code\database tasks\data basa misal. verileri elave etmek\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csproj.GenerateResource.Cache
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe.config
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.exe
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\bin\Debug\data_basa_misal.verileri_elave_etmek.pdb
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csprojResolveAssemblyReference.cache
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Form1.resources
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data_basa_misal.verileri_elave_etmek.Properties.Resources.resources
+C:\Users\gunel\Documents\Visual Studio 2015\Projects\crud tam\data basa misal. verileri elave etmek\obj\Debug\data basa misal. verileri elave etmek.csproj.GenerateResource.Cache
